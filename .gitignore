@@ -112,3 +112,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.docx
+*.pdf
+*.txt
+*.exe
+Python/AUTOMATIZE TAREFAS/zeroDivide.py
+Python/AUTOMATIZE TAREFAS/sameName2.py
+Python/AUTOMATIZE TAREFAS/yourName2.py
+Python/AUTOMATIZE TAREFAS/yourName.py
+Python/AUTOMATIZE TAREFAS/vampire.py
+Python/AUTOMATIZE TAREFAS/tictactoe.py
+Python/AUTOMATIZE TAREFAS/sameName3.py
+Python/AUTOMATIZE TAREFAS/sameName.py
+Python/AUTOMATIZE TAREFAS/printRandom.py
+Python/AUTOMATIZE TAREFAS/prettycharactercount.py
+Python/AUTOMATIZE TAREFAS/passingreference.py
+Python/AUTOMATIZE TAREFAS/paraVirgulas.py
